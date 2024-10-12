@@ -1,1 +1,2 @@
 # storage-assignment
+From this assignment we have learnt how to use Local Storage feature of the Web Storage API in HTML5. We practiced how to input data, save it, and retrieve it after reloading the page. We have known how to work with the user’s current time to create an interactive web page. We also improved our understanding of the interaction between HTML and Java Script files in a project, and created attractive and clear design with the CSS file.
